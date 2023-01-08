@@ -1,4 +1,5 @@
 Login Credentials  
 Activity lifecycle 
- Shared Preference && Intent 
+
+Shared Preference && Intent 
 Implicit intent
